@@ -1,5 +1,7 @@
 # Digit Recognition ANN
-Artificial neural network for recognizing digits from MNIST in C++ for a Kaggle submission    
+This is a simple project (not optimized) for me to learn how Neural Networks work.  
+
+Artificial neural network (very simple Multilayer Perceptron) for recognizing digits from MNIST in C++ for a Kaggle submission.   
 The best result from Kaggle was 0.98129, this can be achieved (or maybe improved) by tweaking the amount of epochs, the learning rate and the NN layout.
 
 ## Running
